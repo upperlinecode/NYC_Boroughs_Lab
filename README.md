@@ -12,17 +12,18 @@ Your first task is to go through each div and create an h2 element stating the n
 
 Next, go through the list of attractions below, find pictures of them online, and then place them in the correct borough in your html. 
 
-**List**
-  1. Coney Island
-  2. Central Park  
-  3. Statue of Liberty
-  4. Pelham Bay Park
-  5. New York Wheel
-  6. Prospect Park
-  7. Empire State Building
-  8. Yankee Stadium
-  9. Bronx Zoo
-  10. Staten Island Zoo
-  11. Brooklyn Botanic Garden
-  12. Citi Field
-  13. JFK Airport
+**What to Place**
+
+1. Coney Island
+2. Central Park  
+3. Statue of Liberty
+4. Pelham Bay Park
+5. New York Wheel
+6. Prospect Park
+7. Empire State Building
+8. Yankee Stadium
+9. Bronx Zoo
+10. Staten Island Zoo
+11. Brooklyn Botanic Garden
+12. Citi Field
+13. JFK Airport
