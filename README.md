@@ -1,5 +1,7 @@
 # Let's Explore New York
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/NYC_Boroughs_Lab)](https://repl.it/github/upperlinecode/NYC_Boroughs_Lab)
+
 ## Intro
 New York City is made up of 5 very distinct boroughs: Manhattan, the Bronx, Queens, Brooklyn, and Staten Island. Each borough has its own unique attractions and populations.
 
