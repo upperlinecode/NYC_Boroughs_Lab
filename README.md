@@ -10,9 +10,11 @@ New York City is made up of 5 very distinct boroughs: Manhattan, the Bronx, Quee
 ## Task
 If you take a look in your index.html file you'll see that you've been given a page with 5 divs. Each one of these divs has an id corresponding to a different borough has been styled to have a different background color.
 
-Your first task is to go through each div and create an h2 element stating the name of the borough. The text should appear **inside** the colored box designated for that borough.
+### 1. Label The Boroughs
+Your first task is to go through each div and **create an h2 element stating the name of the borough.** The text should appear **inside** the colored box designated for that borough.
 
-Next, go through the list of attractions below, find pictures of them online, and then place them in the correct borough in your html. 
+### 2. Add Images of the Attractions 
+Next, go through the list of attractions below, find pictures of them online, and **use an image element to place them in the correct borough in your html.**
 
 **What to Place**
 
@@ -29,3 +31,11 @@ Next, go through the list of attractions below, find pictures of them online, an
 11. Brooklyn Botanic Garden
 12. Citi Field
 13. JFK Airport
+
+
+### 3. Add Learn More Links [Stretch]
+Find a website that your users can visit to learn more about each attraction and use an [anchor tag](https://www.w3schools.com/tags/tag_a.asp) to include them underneath the image of each attraction. 
+Hint: Consider placing the anchor element inside another element if you want it to appear on a seperate line and not adjacent to the image. 
+**Bonus points** if you can get the links to open up in a new window!
+
+
